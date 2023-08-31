@@ -1,0 +1,28 @@
+{
+  "name": "js-utility",
+  "version": "1.0.0",
+  "description": "This is the public project and it makes the nodejs devs coding struggle easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shumailmehmood/js-utility.git"
+  },
+  "keywords": [
+    "loadash",
+    "utils",
+    "utility",
+    "npm",
+    "nodejs",
+    "javascript",
+    "js"
+  ],
+  "author": "Shumail Mehmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shumailmehmood/js-utility/issues"
+  },
+  "homepage": "https://github.com/shumailmehmood/js-utility#readme"
+}
